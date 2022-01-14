@@ -1,0 +1,20 @@
+{
+  "home": {
+    "addContact": "Add Contact",
+    "connectToMetamask": "Connect to metamask",
+    "searchContacts": "Search contacts",
+    "name": "Name",
+    "lastName": "Last name",
+    "age": "Age",
+    "telephone": "Telephone",
+    "action": "action",
+    "all": "all",
+    "darkMode": "dark mode",
+    "on": "on",
+    "off": "off",
+    "sortBy": "Sort by",
+    "edit": "edit",
+    "delete": "delete",
+    "view": "view"
+  }
+}

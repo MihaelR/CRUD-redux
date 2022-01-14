@@ -1,0 +1,94 @@
+{
+  "contacts": [
+    {
+      "name": "Eva",
+      "lastName": "Marcus",
+      "age": 23,
+      "telephone": "83673677367635",
+      "email": "eva234@gmail.com",
+      "link": "www.google.com",
+      "tag": "sport",
+      "id": 1
+    },
+    {
+      "name": "Tom",
+      "lastName": "Cruise",
+      "age": 23,
+      "email": "tom@gmail.com",
+      "telephone": "83786646476",
+      "link": "www.evs.com",
+      "tag": "art",
+      "id": 2
+    },
+    {
+      "name": "James",
+      "lastName": "Bond",
+      "age": 23,
+      "email": "james@gmail.com",
+      "telephone": "9484785787",
+      "link": "www.evs.com",
+      "tag": "it",
+      "id": 3
+    },
+    {
+      "name": "Jeniffer",
+      "lastName": "Aniston",
+      "age": 23,
+      "email": "jen@gmail.com",
+      "telephone": "83786646476",
+      "link": "www.evs.com",
+      "tag": "sport",
+      "id": 5
+    },
+    {
+      "name": "Luka",
+      "lastName": "Modric",
+      "age": 23,
+      "email": "luka@gmail.com",
+      "telephone": "9484785787",
+      "link": "www.evs.com",
+      "tag": "art",
+      "id": 6
+    },
+    {
+      "name": "Vincious",
+      "lastName": "Junior",
+      "age": 23,
+      "email": "vini@gmail.com",
+      "telephone": "83673677367635",
+      "link": "www.evs.com",
+      "tag": "sport",
+      "id": 7
+    },
+    {
+      "name": "Mihael",
+      "lastName": "Rasperger",
+      "age": "30",
+      "telephone": "0765767068",
+      "email": "rasperger01@gmail.com",
+      "link": "www.link.com",
+      "tag": "it",
+      "id": 8
+    },
+    {
+      "name": "mihael rasperger",
+      "lastName": "",
+      "age": "",
+      "telephone": "+385976004085",
+      "email": "captain.miha@gmail.com",
+      "link": "",
+      "tag": "sport",
+      "id": 9
+    },
+    {
+      "name": "mihael rasperger",
+      "lastName": "",
+      "age": "",
+      "telephone": "+385976004085",
+      "email": "captain.miha@gmail.com",
+      "link": "",
+      "tag": "it",
+      "id": 10
+    }
+  ]
+}

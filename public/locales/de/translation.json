@@ -1,0 +1,20 @@
+{
+  "home": {
+    "addContact": "Kontakt hinzufügen",
+    "connectToMetamask": "Mit Metamas verbinden",
+    "searchContacts": "Kontakte durchsuchen",
+    "name": "Name",
+    "lastName": "Nachname",
+    "age": "Alter",
+    "telephone": "Telefon",
+    "action": "Aktion",
+    "all": "alles",
+    "darkMode": "Dunkelmodus",
+    "on": "auf",
+    "off": "aus",
+    "sortBy": "Sortiere nach",
+    "edit": "bearbeiten",
+    "delete": "löschen",
+    "view": "Aussicht"
+  }
+}

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches shapshot 1`] = `
+<button>
+  Go Back
+</button>
+`;
+
+exports[`matches shapshot 2`] = `
+<button>
+  xxx
+</button>
+`;
